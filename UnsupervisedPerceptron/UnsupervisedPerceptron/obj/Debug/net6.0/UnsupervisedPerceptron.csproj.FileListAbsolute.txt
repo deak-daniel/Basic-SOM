@@ -1,0 +1,14 @@
+C:\Users\dania\source\repos\UnsupervisedPerceptron\UnsupervisedPerceptron\bin\Debug\net6.0\UnsupervisedPerceptron.exe
+C:\Users\dania\source\repos\UnsupervisedPerceptron\UnsupervisedPerceptron\bin\Debug\net6.0\UnsupervisedPerceptron.deps.json
+C:\Users\dania\source\repos\UnsupervisedPerceptron\UnsupervisedPerceptron\bin\Debug\net6.0\UnsupervisedPerceptron.runtimeconfig.json
+C:\Users\dania\source\repos\UnsupervisedPerceptron\UnsupervisedPerceptron\bin\Debug\net6.0\UnsupervisedPerceptron.dll
+C:\Users\dania\source\repos\UnsupervisedPerceptron\UnsupervisedPerceptron\bin\Debug\net6.0\UnsupervisedPerceptron.pdb
+C:\Users\dania\source\repos\UnsupervisedPerceptron\UnsupervisedPerceptron\obj\Debug\net6.0\UnsupervisedPerceptron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dania\source\repos\UnsupervisedPerceptron\UnsupervisedPerceptron\obj\Debug\net6.0\UnsupervisedPerceptron.AssemblyInfoInputs.cache
+C:\Users\dania\source\repos\UnsupervisedPerceptron\UnsupervisedPerceptron\obj\Debug\net6.0\UnsupervisedPerceptron.AssemblyInfo.cs
+C:\Users\dania\source\repos\UnsupervisedPerceptron\UnsupervisedPerceptron\obj\Debug\net6.0\UnsupervisedPerceptron.csproj.CoreCompileInputs.cache
+C:\Users\dania\source\repos\UnsupervisedPerceptron\UnsupervisedPerceptron\obj\Debug\net6.0\UnsupervisedPerceptron.dll
+C:\Users\dania\source\repos\UnsupervisedPerceptron\UnsupervisedPerceptron\obj\Debug\net6.0\refint\UnsupervisedPerceptron.dll
+C:\Users\dania\source\repos\UnsupervisedPerceptron\UnsupervisedPerceptron\obj\Debug\net6.0\UnsupervisedPerceptron.pdb
+C:\Users\dania\source\repos\UnsupervisedPerceptron\UnsupervisedPerceptron\obj\Debug\net6.0\UnsupervisedPerceptron.genruntimeconfig.cache
+C:\Users\dania\source\repos\UnsupervisedPerceptron\UnsupervisedPerceptron\obj\Debug\net6.0\ref\UnsupervisedPerceptron.dll
