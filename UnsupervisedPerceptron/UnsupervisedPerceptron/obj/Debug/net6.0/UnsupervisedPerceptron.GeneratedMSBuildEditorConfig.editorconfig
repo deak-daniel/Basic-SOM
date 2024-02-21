@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = UnsupervisedPerceptron
-build_property.ProjectDir = C:\Users\dania\source\repos\UnsupervisedPerceptron\UnsupervisedPerceptron\
+build_property.ProjectDir = C:\Users\deakd\Documents\GitHub\Basic-SOM\UnsupervisedPerceptron\UnsupervisedPerceptron\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
